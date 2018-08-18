@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BasicMaxRankUP">
+    <output-path>$PROJECT_DIR$/../../../../Test Minecraft Server/plugins</output-path>
+    <root id="archive" name="BasicMaxRankUP.jar">
+      <element id="module-output" name="Programming Files" />
+    </root>
+  </artifact>
+</component>

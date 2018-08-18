@@ -1,0 +1,12 @@
+name: BasicMaxRankUp
+version: ${project.version}
+main: me.flameknight15.basicmaxrankup.basicmaxrankup.BasicMaxRankUp
+authors: [FlameKnight15]
+description: Ranks a player up
+depend: [Vault]
+commands:
+   maxrankup:
+      description: Ranks you up to the highest rank you can go
+      usage: /maxrankup
+      aliases: [mru]
+
